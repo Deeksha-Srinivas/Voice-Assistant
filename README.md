@@ -43,9 +43,9 @@ python main.py
 ```
 ## Usage
 Once the assistant starts, you can use the following voice commands:
-**Wikipedia Python** → Fetches a summary from Wikipedia
-**What time is it?** → Tells the current time
-**Open Notepad** → Opens Notepad
-**Open browser** → Opens Google Chrome
-**Exit** → Stops the assistant
+-**Wikipedia Python** → Fetches a summary from Wikipedia
+-**What time is it?** → Tells the current time
+-**Open Notepad** → Opens Notepad
+-**Open browser** → Opens Google Chrome
+-**Exit** → Stops the assistant
 
