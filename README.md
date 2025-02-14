@@ -11,6 +11,7 @@ A **simple AI-powered Voice Assistant** that listens to voice commands, processe
  **Exit Command** – Stops the assistant  
 
 ##  Project Structure  
+```bash
 Voice_Assistant/
 │── main.py # Main execution script 
 │── requirements.txt # List of dependencies 
@@ -20,7 +21,7 @@ Voice_Assistant/
 │── utils/ # Configuration files │ 
   │── config.py # Stores default settings 
 │── README.md # Project documentation
-
+```
 
 ##  Installation & Setup  
 ### **1 Clone the Repository**  
