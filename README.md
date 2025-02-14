@@ -18,8 +18,6 @@ Voice_Assistant/
 │── modules/ # Core functionality │ 
   │── speech.py # Handles speech recognition & TTS │ 
   │── commands.py # Processes commands 
-│── utils/ # Configuration files │ 
-  │── config.py # Stores default settings 
 │── README.md # Project documentation
 ```
 
@@ -46,9 +44,9 @@ python main.py
 ## Usage
 Once the assistant starts, you can use the following voice commands:
 
-"Wikipedia Python" → Fetches a summary from Wikipedia
-"What time is it?" → Tells the current time
-"Open Notepad" → Opens Notepad
-"Open browser" → Opens Google Chrome
-"Exit" → Stops the assistant
+**Wikipedia Python** → Fetches a summary from Wikipedia
+**What time is it?** → Tells the current time
+**Open Notepad** → Opens Notepad
+**Open browser** → Opens Google Chrome
+**Exit** → Stops the assistant
 
